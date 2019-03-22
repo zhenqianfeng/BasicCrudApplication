@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BasicCrudApplication</string>
+    <string name="menu_btn_create">Add Record</string>
+    <string name="menu_btn_read">Get Record</string>
+    <string name="menu_btn_update">Update Record</string>
+    <string name="menu_btn_delete">Delete Record</string>
+    <string name="label_id">Employee ID</string>
+    <string name="lable_first_name">First Name</string>
+    <string name="label_last_name">Last Name</string>
+    <string name="label_is_insured">Is Insured</string>
+    <string name="button_save">Save Record</string>
+    <string name="btn_get_record">Fetch Record</string>
+</resources>
